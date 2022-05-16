@@ -2,7 +2,7 @@ I'm **[Murali doss](https://www.linkedin.com/in/dossops/)** ; aka **Murali**.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
-I was born and raised in **Madurai/India** and currently working in an Award winning AWS Partner company Itoc as Cloud Consultant.
+I was born and raised in **Madurai/India** and currently working in an Award winning AWS Partner company called Itoc as a Cloud Consultant.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/dossops/)** | [Twitter](https://twitter.com/Muralidoss5588)
 
@@ -52,7 +52,7 @@ CloudnLoud Community provides free trainings, videos, internships and careeer gu
 
 Mail - muralidoss@outlook.com
   
-## join our Discord Channel
+## Join our Discord Channel
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
 
