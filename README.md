@@ -2,18 +2,17 @@
 
 <div align="justify">
 
-[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Muralidoss5588)
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dossops/)
-[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurLeeDas/murleedas)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
+[![Twitter](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Muralidoss5588)
+[![Linkedin](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dossops/)
+[![github](https://img.shields.io/badge/MuraliDoss-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurLeeDas/murleedas)
+
 
 </div>  
 <p align="justify"> 
-Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy who likes to learn latest technologies and contribute to Opensource tools. Also I predominantly support a community called **CloudnLoud Community** for a good cause. We are also working on so many Re-Engineering projects as a core technical team in CloudnLoud. Almost more than 10 years have passed since then. I am currently a DevOps professional and Cloud Consultant.
+Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy who likes to learn latest technologies and contribute to Opensource tools. Also I predominantly support a community called **CloudnLoud Community** for a good cause. We are also working on so many Re-Engineering projects as a core technical team in CloudnLoud. Almost more than 10 years have passed since I started my tech journey. I am currently a DevOps professional and Cloud Consultant.
 &nbsp;
 
 </p>
-
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -165,6 +164,7 @@ Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
 Mail - muralidoss@outlook.com
   
