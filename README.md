@@ -1,15 +1,16 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Murali" title="👋 Hi there! I'm Murali"/>
-
+<!-- <img src="https://raw.githubusercontent.com/murali/murali/main/intro.gif" alt="👋 Hi there! I'm Murali" title="👋 Hi there! I'm Murali"/> -->
+### Hi there 👋 I'm Murali
 <div align="justify">
 
 [![Twitter](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Muralidoss5588)
 [![Linkedin](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dossops/)
 [![github](https://img.shields.io/badge/MuraliDoss-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurLeeDas/murleedas)
+[![hashnode](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://hashnode.com/@Muralidoss)
 
 
 </div>  
 <p align="justify"> 
-Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy who likes to learn latest technologies and contribute to Opensource tools. Also I predominantly support a community called **CloudnLoud Community** for a good cause. We are also working on so many Re-Engineering projects as a core technical team in CloudnLoud. Almost more than 10 years have passed since I started my tech journey. I am currently a DevOps professional and Cloud Consultant.
+Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy who likes to learn latest technologies and contribute to Opensource tools. Also I predominantly support a community called **CloudnLoud Community** for a good cause. We are also working on so many Re-Engineering projects as a core technical team in CloudnLoud. Almost more than 10 years have passed since I started my tech journey, I am currently a DevOps professional and Cloud Consultant.
 &nbsp;
 
 </p>
@@ -21,7 +22,7 @@ Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
@@ -31,16 +32,8 @@ Hello friends ✋ , welcome to my GitHub. I am Murali doss and I am a tech savvy
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
