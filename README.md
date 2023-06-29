@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Muralidoss5588)
 [![Linkedin](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dossops/)
 [![github](https://img.shields.io/badge/MuraliDoss-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurLeeDas/murleedas)
-[![hashnode](https://img.shields.io/badge/MuraliDoss-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://hashnode.com/@Muralidoss)
 
 
 </div>  
